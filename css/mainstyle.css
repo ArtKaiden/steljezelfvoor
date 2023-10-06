@@ -109,9 +109,11 @@ footer p{
 /* TODO: beslissen of ik hier de border wil of niet */
   border: solid black 2px;
   margin-bottom: 20px;
+  border-radius: 0;
 }
 .adBlock img{
   max-width: 100%;
+  
 }
 .adText{
   margin: 0;
